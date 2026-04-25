@@ -1,0 +1,4 @@
+Work-flow of Project ::
+1- Input from user :: Rock , Paper, Scissor 
+2 - Computer Choice :: Computer will choose randomly not comditionally.
+3 - Result Print 

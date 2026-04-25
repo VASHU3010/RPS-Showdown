@@ -1,0 +1,16 @@
+Cases in the Game ::
+
+1 - Rock 
+Rock - Rock = TIE 
+Rock - Paper = PAPER WIN
+Rock - Scissor = ROCK WIN
+
+2 - Paper
+Paper - Rock = PAPER WIN
+Paper - Paper = TIE
+Paper - Scissor = SCISSOR WIN
+
+3 - Scissor 
+Scissor - Rock = ROCK WIN
+Scissor - Paper = SCISSOR WIN
+Scissor - Scissor = TIE
